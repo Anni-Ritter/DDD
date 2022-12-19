@@ -1,0 +1,15 @@
+C:\Users\anasm\source\repos\DDD\DDD\bin\Debug\net5.0\DDD.exe
+C:\Users\anasm\source\repos\DDD\DDD\bin\Debug\net5.0\DDD.deps.json
+C:\Users\anasm\source\repos\DDD\DDD\bin\Debug\net5.0\DDD.runtimeconfig.json
+C:\Users\anasm\source\repos\DDD\DDD\bin\Debug\net5.0\DDD.runtimeconfig.dev.json
+C:\Users\anasm\source\repos\DDD\DDD\bin\Debug\net5.0\DDD.dll
+C:\Users\anasm\source\repos\DDD\DDD\bin\Debug\net5.0\ref\DDD.dll
+C:\Users\anasm\source\repos\DDD\DDD\bin\Debug\net5.0\DDD.pdb
+C:\Users\anasm\source\repos\DDD\DDD\obj\Debug\net5.0\DDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasm\source\repos\DDD\DDD\obj\Debug\net5.0\DDD.AssemblyInfoInputs.cache
+C:\Users\anasm\source\repos\DDD\DDD\obj\Debug\net5.0\DDD.AssemblyInfo.cs
+C:\Users\anasm\source\repos\DDD\DDD\obj\Debug\net5.0\DDD.csproj.CoreCompileInputs.cache
+C:\Users\anasm\source\repos\DDD\DDD\obj\Debug\net5.0\DDD.dll
+C:\Users\anasm\source\repos\DDD\DDD\obj\Debug\net5.0\ref\DDD.dll
+C:\Users\anasm\source\repos\DDD\DDD\obj\Debug\net5.0\DDD.pdb
+C:\Users\anasm\source\repos\DDD\DDD\obj\Debug\net5.0\DDD.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/hbieqajAW1tbsq5YEYgf6MpGPaRox6BBK5IWMZCsH7aRZB/sztwoiV7ntLpA3pSwFKQ7d5GdpL/NjiwazOLAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anasm\\source\\repos\\DDD\\DDD\\DDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anasm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anasm\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\anasm\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\anasm\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\anasm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
